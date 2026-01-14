@@ -1,15 +1,15 @@
 {
-"name": "web-pair",
+"name": "SASA X MD WHATSAPP BOT WEB PAIR",
     "version": "0.0.1",
-    "description": "A multi functional whatsapp bot Web paircode.",
+    "description": "A MULTI FUNCTIONAL SASA X MD WHATSAPP BOT WEB PAIR CODE.",
     "main": "index.js",
     "scripts": {
       "start": "pm2 start index.js --deep-monitoring --attach --name DANUWA-MD",
-      "stop": "pm2 stop DANUWA-MD",
-     "restart": "pm2 restart DANUWA-MD"
+      "stop": "pm2 stop SASA X MD WHATSAPP POWERFULL BOT",
+     "restart": "pm2 restart SASA X MD WHATSAPP POWERFULL BOT"
     },
   "dependencies": {
-    "@whiskeysockets/baileys": "^6.7.17",
+    "@whiskeysockets/baileys": "^7.0.0-rc.9",
     "qrcode": "^1.5.3",
     "awesome-phonenumber": "^2.64.0",
     "pino": "^8.1.0",
